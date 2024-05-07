@@ -102,6 +102,16 @@
 9. Administre el texto dentro de los componentes a través de propiedades de texto, permitiendo cambios de texto en todas las instancias desde un único punto de control.
 10. Perfeccione continuamente sus componentes y sus propiedades a medida que su proyecto de diseño evoluciona para mantener la organización y la eficacia.
 
-## Superpoder de Figma
+## Plugins & Widgets
+
+1. Utilice los complementos de Figma para automatizar tareas y agregar funcionalidades, explorando opciones gratuitas y de pago en la comunidad de Figma.
+2. Mejore la accesibilidad y la usabilidad con el complemento [Usar contraste](https://usecontrast.com/) para verificar las relaciones de contraste y cumplir con las pautas de accesibilidad.
+3. Incorpore imágenes libres de derechos en sus diseños rápidamente con el complemento [Unsplash](https://www.figma.com/community/plugin/738454987945972471).
+4. Agregue profundidad y realismo a sus diseños con el complemento [Smooth Shadow](https://www.figma.com/community/plugin/788830704169694737/smoothshadow?searchSessionId=lvfmdwbb-3j2z1e0ickg) para obtener sombras más pulidas y profesionales.
+5. Integre widgets en su lienzo de Figma para mejorar la funcionalidad y la visibilidad para todos los usuarios en el archivo, a diferencia de los complementos.
+6. Utilice widgets de utilidades como temporizadores Pomodoro o listas de tareas pendientes para administrar las tareas de diseño y el tiempo directamente dentro de Figma.
+7. Explore la comunidad Figma en busca de una gran cantidad de recursos de diseño, como kits de interfaz de usuario, estructuras alámbricas e íconos que pueden ahorrarle tiempo e inspirar sus proyectos.
+8. Duplique y utilice archivos comunitarios, como este [kit de interfaz de usuario de iOS](https://www.figma.com/community/file/1121065701252736567), para integrar rápidamente elementos de diseño detallados en su trabajo.
+9. Comparte tus propios diseños en la Comunidad Figma para contribuir y aprender de otros diseñadores.
 
 
