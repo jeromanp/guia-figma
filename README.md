@@ -61,6 +61,47 @@
 8. Recorte las imágenes desbordadas dentro de un marco habilitando 'recortar contenido' en el panel de propiedades.
 9. Cambie la forma en que las imágenes interactúan con las capas subyacentes aplicando modos de fusión como Multiplicar, Trama y Luminosidad.
 
-## Movimeintos
+## Movimientos
+
+1. Mueva las capas hacia arriba y hacia abajo rápidamente usando `⌘` + corchete izquierdo o derecho.
+2. Aléjese para mostrar todo en su lienzo con "Shift 1".
+3. Amplíe un objeto seleccionado con "Shift 2".
+4. Regrese el zoom al 100% usando "Shift 0".
+5. Seleccione capas anidadas con precisión con `⌘` + clic.
+6. Profundice en grupos o marcos anidados con la tecla "retorno".
+7. Navegue a través de las capas en el panel usando la tecla `Tab` y `Shift` + `Tab`.
+8. Ajuste el espacio entre objetos ingresando un valor en la opción de espaciado del panel de propiedades.
+9. Intercambie posiciones de objetos usando la función de intercambio haciendo clic en el punto central rosa.
+10. Alinee objetos con precisión utilizando las herramientas de alineación en la barra de herramientas.
+11. Mida las distancias entre los elementos en el lienzo manteniendo presionado "⌥" y colocando el cursor sobre él.
+12. Cambie la visibilidad de la interfaz de usuario para centrarse en el trabajo de diseño usando `⌘ .`.
+13. Cambie el color de fondo del lienzo de Figma a través de la muestra de color en el panel de propiedades.
+
+## Auto Layout
+
+1. Utilice el diseño automático para contenido dinámico que se ajuste según el tamaño del contenido, como elementos responsivos y secciones expandibles.
+2. Cree un marco de diseño automático alrededor de un campo de texto seleccionando el texto y presionando **`Shift A`**. El marco se ajusta para abrazar el contenido de forma predeterminada.
+3. Agregue elementos como íconos al marco de diseño automático y el tamaño del marco se ajustará en consecuencia.
+4. Ajuste la alineación dentro de un marco de diseño automático para corregir cualquier desalineación debida a las diferentes alturas del cuadro delimitador.
+5. Controle el espacio entre elementos en un marco de diseño automático para gestionar el espacio para respirar visual.
+6. Modifique el relleno alrededor de los elementos dentro de un marco de diseño automático utilizando el panel de propiedades. Ajuste el relleno individualmente o en conjunto usando `⌘` + clic.
+7. Recuerde las configuraciones de ancho fijo y contenedor de relleno para un diseño flexible, especialmente en diseños anidados. Configure los marcos principales con un ancho fijo y los elementos secundarios para llenar el contenedor y asegurarse de que se adapten al espacio disponible.
+8. Reorganice los elementos dentro del diseño automático rápidamente arrastrando y soltando o cambiando el orden de las capas.
+9. Recuerde que dominar el diseño automático requiere práctica y discreción para evitar el uso excesivo, lo que puede limitar la flexibilidad creativa.
+
+## Componentes
+
+1. Utilice componentes para elementos de diseño reutilizables, como encabezados, pies de página y botones, para garantizar la coherencia y acelerar el proceso de diseño.
+2. Cree un componente seleccionando un objeto y usando **`⌘ ⌥ K`.**
+3. Separe las instancias de los componentes utilizando el acceso directo `⌘ ⌥ B`.
+4. Comprenda que los cambios realizados en el componente principal actualizan automáticamente todas sus instancias.
+5. Cree y utilice propiedades de componentes como variantes, booleanos, texto e intercambio de instancias para mejorar la flexibilidad de los componentes.
+6. Utilice variantes para gestionar diferentes estados de un componente, como el predeterminado y el desplazamiento, creando y nombrando variantes de forma adecuada.
+7. Agregue una propiedad booleana para el control de visibilidad, aplicándola a partes específicas de un componente para mostrar u ocultar elementos.
+8. Utilice el intercambio de instancias para reemplazos flexibles de componentes anidados dentro de componentes, lo que permite intercambios fáciles entre opciones predefinidas.
+9. Administre el texto dentro de los componentes a través de propiedades de texto, permitiendo cambios de texto en todas las instancias desde un único punto de control.
+10. Perfeccione continuamente sus componentes y sus propiedades a medida que su proyecto de diseño evoluciona para mantener la organización y la eficacia.
+
+## Superpoder de Figma
 
 
