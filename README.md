@@ -51,4 +51,16 @@
 
 ## Usando imágenes
 
+1. Importe imágenes a su lienzo Figma usando el acceso directo `⌘ Shift K`.
+2. Arrastre y suelte imágenes directamente en su lienzo Figma para importarlas fácilmente.
+3. Copie imágenes de la web y péguelas en Figma con `⌘ V`.
+4. Transfiera rellenos de imágenes entre formas usando `⌘ ⌥ C` para copiar y `⌘ ⌥ V` para pegar.
+5. Utilice `⌘ C` y `⌘ V` para pegar solo el relleno de la imagen en otra forma.
+6. Ajuste el cuadro delimitador de una imagen manteniendo presionado `⌘` para recortarlo.
+7. Cree una máscara con una imagen y una forma seleccionando ambas y usando `⌘ Ctrl M`.
+8. Recorte las imágenes desbordadas dentro de un marco habilitando 'recortar contenido' en el panel de propiedades.
+9. Cambie la forma en que las imágenes interactúan con las capas subyacentes aplicando modos de fusión como Multiplicar, Trama y Luminosidad.
+
+## Movimeintos
+
 
