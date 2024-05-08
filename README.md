@@ -114,4 +114,16 @@
 8. Duplique y utilice archivos comunitarios, como este [kit de interfaz de usuario de iOS](https://www.figma.com/community/file/1121065701252736567), para integrar rápidamente elementos de diseño detallados en su trabajo.
 9. Comparte tus propios diseños en la Comunidad Figma para contribuir y aprender de otros diseñadores.
 
+## Prototipos en Figma
+
+1. Comience seleccionando un objeto que desee que sea interactivo y vaya a la pestaña de prototipo en el panel de propiedades.
+2. Utilice el ícono más al lado de su selección para arrastrar una conexión a otro marco, creando una interacción.
+3. Especifique el tipo de interacción, como hacer clic, pasar el cursor o arrastrar, y establezca la acción deseada, como navegar a un marco diferente.
+4. Pruebe su prototipo haciendo clic en el botón de reproducción en la parte superior derecha de la barra de herramientas para ver cómo fluyen las interacciones dentro de su diseño.
+5. Cree componentes interactivos con múltiples opciones de navegación y vincule cada elemento al marco apropiado para una interactividad consistente en diferentes marcos.
+6. Utilice Smart Animate para crear transiciones suaves entre fotogramas ajustando las propiedades de los objetos comunes como la posición, el tamaño o el color.
+7. Mejore los prototipos con superposiciones creando contenido adicional en un nuevo marco y configurándolo para que se abra como una superposición durante las interacciones.
+8. Utilice Figma para presentaciones tratando cada cuadro como una diapositiva y usando componentes para elementos consistentes como encabezados y pies de página.
+9. Navegue por las diapositivas en modo prototipo usando las teclas de flecha, asegurándose de que los marcos estén organizados en el orden correcto usando nombres de capas y diseño automático para las secciones.
+
 
