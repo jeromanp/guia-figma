@@ -127,3 +127,17 @@
 9. Navegue por las diapositivas en modo prototipo usando las teclas de flecha, asegurándose de que los marcos estén organizados en el orden correcto usando nombres de capas y diseño automático para las secciones.
 
 
+## Colaboraciones y compartir proyectos en Figma
+
+1. Utilice el atajo `C` para agregar comentarios directamente en el lienzo, asociando visualmente los comentarios con elementos de diseño específicos.
+2. Vea todos los comentarios a la vez en el panel de propiedades para asegurarse de que no se pase por alto ningún comentario.
+3. Active el chat con cursor presionando la tecla de barra invertida y escribiendo, convirtiendo el cursor en una burbuja de chat para conversaciones en tiempo real.
+4. Utilice el chat de audio de Figma dentro del documento para llamadas en vivo y revisiones rápidas de diseño sin necesidad de herramientas externas.
+5. Resolver comentarios cuando ya no sean necesarios para mantener ordenado el espacio de trabajo.
+6. Comparta su archivo de diseño haciendo clic en el botón azul de compartir e invite a otros ingresando sus direcciones de correo electrónico o compartiendo un enlace.
+7. Ajuste los permisos al compartir enlaces para garantizar el acceso adecuado, con opciones como "cualquiera con el enlace" puede ver o configuraciones más restringidas.
+8. Comparta prototipos específicamente ingresando al modo prototipo y compartiendo el enlace, permitiendo que otros vean el producto terminado sin acceso completo al archivo.
+9. Exporte fotogramas completos o activos específicos seleccionándolos y eligiendo el formato y la resolución deseados en las opciones de exportación.
+10. Exporte todos los marcos a PDF directamente desde la aplicación de escritorio a través de Archivo > Exportar marcos a PDF para presentaciones o documentación completa.
+
+
